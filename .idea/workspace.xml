@@ -2,6 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="33816211-03e6-42e6-9de5-f41f62c727aa" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/main.css" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-3.3.7.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/bootstrap-theme.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/bootstrap-theme.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/build.min.css" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="sergeymilevich.github.io.iws" />
@@ -25,16 +32,36 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="617">
-              <caret line="215" column="60" selection-start-line="215" selection-start-column="60" selection-end-line="215" selection-end-column="60" />
+            <state relative-caret-position="261">
+              <caret line="53" column="62" selection-start-line="53" selection-start-column="47" selection-end-line="53" selection-end-column="62" />
               <folding>
-                <element signature="e#7260#7267#0" expanded="true" />
-                <element signature="e#7870#7877#0" expanded="true" />
-                <element signature="e#8504#8511#0" expanded="true" />
-                <element signature="e#10838#10844#0" expanded="true" />
-                <element signature="e#10864#10872#0" expanded="true" />
-                <element signature="e#10897#10905#0" expanded="true" />
+                <element signature="e#7044#7051#0" expanded="true" />
+                <element signature="e#7584#7591#0" expanded="true" />
+                <element signature="e#8161#8168#0" expanded="true" />
+                <element signature="e#10495#10501#0" expanded="true" />
+                <element signature="e#10521#10529#0" expanded="true" />
+                <element signature="e#10554#10562#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/main.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="carousel.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/carousel.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="328">
+              <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -73,6 +100,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/css/main.css" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
@@ -404,6 +432,9 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="33816211-03e6-42e6-9de5-f41f62c727aa" name="Default" comment="" />
@@ -415,8 +446,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="260" y="80" width="1400" height="1000" extended-state="0" />
-    <editor active="true" />
+    <frame x="260" y="80" width="1400" height="1000" extended-state="1" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -499,17 +530,33 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/carousel.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="617">
-          <caret line="215" column="60" selection-start-line="215" selection-start-column="60" selection-end-line="215" selection-end-column="60" />
+        <state relative-caret-position="261">
+          <caret line="53" column="62" selection-start-line="53" selection-start-column="47" selection-end-line="53" selection-end-column="62" />
           <folding>
-            <element signature="e#7260#7267#0" expanded="true" />
-            <element signature="e#7870#7877#0" expanded="true" />
-            <element signature="e#8504#8511#0" expanded="true" />
-            <element signature="e#10838#10844#0" expanded="true" />
-            <element signature="e#10864#10872#0" expanded="true" />
-            <element signature="e#10897#10905#0" expanded="true" />
+            <element signature="e#7044#7051#0" expanded="true" />
+            <element signature="e#7584#7591#0" expanded="true" />
+            <element signature="e#8161#8168#0" expanded="true" />
+            <element signature="e#10495#10501#0" expanded="true" />
+            <element signature="e#10521#10529#0" expanded="true" />
+            <element signature="e#10554#10562#0" expanded="true" />
           </folding>
         </state>
       </provider>
